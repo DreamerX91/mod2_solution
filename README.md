@@ -1,2 +1,2 @@
-# mod2_solution
-Module 2 Coding Assignment
+# module_solutions
+Module Coding Assignment
